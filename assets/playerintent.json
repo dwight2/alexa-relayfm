@@ -1,13 +1,13 @@
 {
   "intents": [
     {
-      "intent": "PlayLatestIntent"
+      "intent": "PlayAudio"
     },
     {
-    "intent": "AMAZON.PauseIntent"
+      "intent": "AMAZON.PauseIntent"
     },
     {
-    "intent": "AMAZON.ResumeIntent"
+      "intent": "AMAZON.ResumeIntent"
     }
   ]
 }
