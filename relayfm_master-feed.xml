@@ -1,0 +1,548 @@
+<rss
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:atom="http://www.w3.org/2005/Atom/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    version="2.0">
+    <channel>
+        <title>Relay FM Master Feed</title>
+        <link>https://www.relay.fm/</link>
+        <description>Relay FM - All Audio Broadcasts</description>
+        <language>en-US</language>
+        <copyright>Copyright © 2016 Relay FM</copyright>
+        <itunes:subtitle>Relay FM - All Audio Broadcasts</itunes:subtitle>
+        <itunes:author>Relay FM</itunes:author>
+        <itunes:summary>Relay FM is an independent podcast network for people who are creative, curious and maybe even a little obsessive — just like its hosts.</itunes:summary>
+        <itunes:image href="http://relayfm.s3.amazonaws.com/assets/Logo-for-Master-Feed.png"/>
+        <itunes:keywords>Relay, FM, Relay FM, Myke, Hackett, Tech, Apple, Viticci, Technology</itunes:keywords>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Relay FM</itunes:name>
+            <itunes:email>hello@relay.fm</itunes:email>
+        </itunes:owner>
+        <itunes:category text="Technology"/>
+        <item>
+            <title>Upgrade 109: YouTube Killed the Podcast Star</title>
+            <description>This week Myke starts a YouTube channel, Jason raises his hopes for new Macs in October, and we praise the new features of Messages while quibbling with the usability of its interface.</description>
+            <pubDate>Mon, 03 Oct 2016 18:45:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/upgrade/Upgrade_109.mp3" length="57508884" type="audio/mp3"/>
+            <link>http://relay.fm/upgrade/109</link>
+            <guid>http://relay.fm/upgrade/109</guid>
+            <itunes:author>Jason Snell and Myke Hurley</itunes:author>
+            <itunes:subtitle>This week Myke starts a YouTube channel, Jason raises his hopes for new Macs in October, and we praise the new features of Messages while quibbling with the usability of its interface.</itunes:subtitle>
+            <itunes:summary>This week Myke starts a YouTube channel, Jason raises his hopes for new Macs in October, and we praise the new features of Messages while quibbling with the usability of its interface.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>4762</itunes:duration>
+            <content:encoded>&lt;p&gt;This week Myke starts a YouTube channel, Jason raises his hopes for new Macs in October, and we praise the new features of Messages while quibbling with the usability of its interface.&lt;/p&gt; &lt;h4&gt;This episode of
+                Upgrade is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="https://www.helpspot.com/upgrade"&gt;HelpSpot&lt;/a&gt;: The most comprehensive and flexible help desk software around. Get 10% off with the code UPGRADE.&lt;/li&gt; &lt;li&gt;&lt;a
+                href="http://ring.com/upgrade"&gt;Ring&lt;/a&gt;: Create a ring of security that starts at your front door. Get $50 off!&lt;/li&gt; &lt;li&gt;&lt;a href="http://boomformac.com"&gt;Boom 2&lt;/a&gt;: The Best Volume Booster &amp;amp; Equalizer For
+                Mac&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/user/mykehurley?app=desktop" target="_blank"&gt;Myke's YouTube Channel&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Please subscribe!&lt;/p&gt;
+                &lt;h5&gt;&lt;a href="https://www.relay.fm/cortex/38" target="_blank"&gt;Cortex #38: A Vlog Is What You Make It - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://sixcolors.com/post/2016/09/assembling-youtube-videos-with-final-cut-pro-x/"
+                target="_blank"&gt;Assembling YouTube videos with Final Cut Pro - Six Colors&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.bloomberg.com/news/articles/2016-09-26/disney-said-to-be-working-with-adviser-on-potential-twitter-bid"
+                target="_blank"&gt;Disney Is Working With an Adviser on Potential Twitter Bid - Bloomberg&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://joe-steel.com/2016-09-27-Full-On-Monet.html" target="_blank"&gt;Full On Monet - Joe Steel&lt;/a&gt;&lt;/h5&gt;
+                &lt;h5&gt;&lt;a href="http://prolost.com/blog/deptheffect" target="_blank"&gt;iPhone 7 Plus Depth Effect is Legit — Prolost&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://itunes.apple.com/gb/app/procam-4-manual-camera-+-raw/id730712409?mt=8"
+                target="_blank"&gt;ProCam 4 - Manual Camera + RAW on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.macrumors.com/2016/09/28/late-october-macbook-pro/" target="_blank"&gt;Apple Likely Aiming for Late October Launch of Redesigned
+                MacBook Pro - Mac Rumors&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://9to5mac.com/2016/09/29/2016-macbook-pro-launch-date-features/" target="_blank"&gt;As expectations grow for MacBook Pro launch next month, different reports suggest late
+                October launch [Poll] | 9to5Mac&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.theapplepost.com/apple-reportedly-planning-keynote-24th-october-refresh-mac-line/" target="_blank"&gt;Apple is reportedly planning a Keynote for 24th October to
+                refresh the Mac line-up | The Apple Post&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twit.tv/shows/the-tech-guy/episodes/1328?autostart=false" target="_blank"&gt;The Tech Guy 1328 Sunday October 2, 2016 | TWiT&lt;/a&gt;&lt;/h5&gt;
+                &lt;h5&gt;&lt;a href="https://sixcolors.com/post/2016/09/messages-on-ios-10-better-features-worse-usability/" target="_blank"&gt;Messages on iOS 10: Better features, worse usability - Six Colors&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://geo.itunes.apple.com/gb/app/stamp-pack/id1156112584?mt=8&amp;at=1l3vre2" target="_blank"&gt;Stamp Pack on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://geo.itunes.apple.com/gb/app/extrafiner/id1156528199?mt=8&amp;at=1l3vre2" target="_blank"&gt;Extrafiner on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://geo.itunes.apple.com/gb/app/rag-tag-classic-pack/id1154319795?mt=8&amp;at=1l3vre2" target="_blank"&gt;Rag Tag Classic Pack on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://geo.itunes.apple.com/gb/app/grammar-snob/id1153479737?mt=8&amp;at=1l3vre2" target="_blank"&gt;Grammar Snob on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://geo.itunes.apple.com/gb/app/aardman-face-bomb/id1152958981?mt=8&amp;at=1l3vre2" target="_blank"&gt;Aardman Face Bomb on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://geo.itunes.apple.com/gb/app/emojipedia-flag-stickers/id1152513544?mt=8&amp;at=1l3vre2" target="_blank"&gt;Emojipedia Flag Stickers on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://geo.itunes.apple.com/gb/app/sticker-pals-600+-stickers/id1128233487?mt=8&amp;at=1l3vre2" target="_blank"&gt;Sticker Pals: 600+ Stickers from David Lanham on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://geo.itunes.apple.com/gb/app/hipster-sticker-pack-for-imessage/id1152678116?mt=8&amp;at=1l3vre2" target="_blank"&gt;Hipster Sticker Pack for iMessage on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://geo.itunes.apple.com/gb/app/the-incomparable-stickers/id1154264263?mt=8&amp;at=1l3vre2" target="_blank"&gt;The Incomparable Stickers on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/freeagents"
+                target="_blank"&gt;Free Agents - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://geo.itunes.apple.com/gb/app/airmail-your-mail-with-you/id993160329?mt=8&amp;at=1l3vre2" target="_blank"&gt;Airmail - Your Mail With You on the App
+                Store&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/11/upgrade_artwork.png"/>
+        </item>
+        <item>
+            <title>Cortex 38: A Vlog Is What You Make It</title>
+            <description>Myke is starting a Youtube channel, Grey's office is ruined, and they both share their current phone homescreens.</description>
+            <pubDate>Mon, 03 Oct 2016 14:30:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/cortex/Cortex_038.mp3" length="78634041" type="audio/mp3"/>
+            <link>http://relay.fm/cortex/38</link>
+            <guid>http://relay.fm/cortex/38</guid>
+            <itunes:author>CGP Grey and Myke Hurley</itunes:author>
+            <itunes:subtitle>Myke is starting a Youtube channel, Grey's office is ruined, and they both share their current phone homescreens.</itunes:subtitle>
+            <itunes:summary>Myke is starting a Youtube channel, Grey's office is ruined, and they both share their current phone homescreens.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>6493</itunes:duration>
+            <content:encoded>&lt;p&gt;Myke is starting a Youtube channel, Grey&amp;#39;s office is ruined, and they both share their current phone homescreens.&lt;/p&gt; &lt;h4&gt;This episode of Cortex is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a
+                href="http://casper.com/cortex"&gt;Casper&lt;/a&gt;: Because everyone deserves a great night sleep. Get $50 off with the code ‘CORTEX’&lt;/li&gt; &lt;li&gt;&lt;a href="http://squarespace.com/cortex"&gt;Squarespace&lt;/a&gt;: Enter offer code CORTEX
+                at checkout to get 10% off your first purchase.&lt;/li&gt; &lt;li&gt;&lt;a href="http://thetrackr.com"&gt;TrackR&lt;/a&gt;: Find lost items in seconds. Get 30% off with the code CORTEX.&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt;
+                &lt;h5&gt;&lt;a href="http://d.pr/i/17u4N" target="_blank"&gt;Grey's Writing Sanctuary (Office space)&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/user/mykehurley" target="_blank"&gt;Myke's New Youtube
+                Channel&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Please subscribe!&lt;/p&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/user/caseyneistat" target="_blank"&gt;CaseyNeistat - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/cortexfm"
+                target="_blank"&gt;Cortex Podcast - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/cortex/26" target="_blank"&gt;Cortex #26: Pick your Poison - Relay FM&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;The last homescreeen discussion&lt;/p&gt;
+                &lt;h5&gt;&lt;a href="http://relayfm.s3.amazonaws.com/assets/Cortex/Episode%20038/Grey's%20Homescreen.PNG" target="_blank"&gt;Grey's Homescreen&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.dsktps.com/2013/11/flatzero-by-articted/"
+                target="_blank"&gt;FLATzero by articted | dsktps&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Grey&amp;#39;s iPhone Wallpaper&lt;/p&gt; &lt;h5&gt;&lt;a href="https://www.omnigroup.com/omnifocus" target="_blank"&gt;OmniFocus&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.2doapp.com/" target="_blank"&gt;2Do&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.lifesum.com/" target="_blank"&gt;Lifesum&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://relayfm.s3.amazonaws.com/assets/Cortex/Episode%20038/Myke's%20Homescreen.png" target="_blank"&gt;Myke's Homescreen&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://grafiksyndikat.com/wallpaper/upgradian/" target="_blank"&gt;Upgradian |
+                grafiksyndikat&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Myke&amp;#39;s iPhone Wallpaper&lt;/p&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/connected/110" target="_blank"&gt;Connected #110: Swimsuits and Sunglasses For Dogs - Relay
+                FM&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Federico Viticci convinces Myke to use Snapchat&lt;/p&gt; &lt;h5&gt;&lt;a href="http://relayfm.s3.amazonaws.com/assets/Cortex/Episode%20038/Myke's%20Watchface.PNG" target="_blank"&gt;Myke's
+                Watchface&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.meetcarrot.com/weather/" target="_blank"&gt;CARROT Weather&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://flexibits.com/fantastical-iphone"
+                target="_blank"&gt;Fantastical&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://relayfm.s3.amazonaws.com/assets/Cortex/Episode%20038/Grey's%20Daytime%20Watchface.PNG" target="_blank"&gt;Grey's Work Watchface&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://relayfm.s3.amazonaws.com/assets/Cortex/Episode%20038/Grey's%20Evening%20Watchface.PNG" target="_blank"&gt;Grey's Evening Watchface&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/17/cortex_artwork.png"/>
+        </item>
+        <item>
+            <title>Mac Power Users 343: Workflows with Serenity Caldwell</title>
+            <description>iMore writer and artist Serenity Caldwell joins the Mac Power Users to talk about the iPad, Mac, the new iPhone, and artist workflows. Thanks to MPU listener [Jigar Talati](https://twitter.com/thescarbro) for help with the shownotes this week!</description>
+            <pubDate>Mon, 03 Oct 2016 02:15:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/relaympu/mpu-343.mp3" length="49877764" type="audio/mp3"/>
+            <link>http://relay.fm/mpu/343</link>
+            <guid>http://relay.fm/mpu/343</guid>
+            <itunes:author>Katie Floyd and David Sparks</itunes:author>
+            <itunes:subtitle>iMore writer and artist Serenity Caldwell joins the Mac Power Users to talk about the iPad, Mac, the new iPhone, and artist workflows.</itunes:subtitle>
+            <itunes:summary>iMore writer and artist Serenity Caldwell joins the Mac Power Users to talk about the iPad, Mac, the new iPhone, and artist workflows.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>4906</itunes:duration>
+            <content:encoded>&lt;p&gt;iMore writer and artist Serenity Caldwell joins the Mac Power Users to talk about the iPad, Mac, the new iPhone, and artist workflows.&lt;/p&gt; &lt;p&gt;Thanks to MPU listener &lt;a
+                href="https://twitter.com/thescarbro"&gt;Jigar Talati&lt;/a&gt; for help with the shownotes this week!&lt;/p&gt; &lt;h4&gt;This episode of Mac Power Users is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a
+                href="http://smilesoftware.com/mpu?crcat=mpu&amp;amp;crsource=pdfpen&amp;amp;crcampaign=2016"&gt;PDFpen from Smile&lt;/a&gt; With powerful PDF editing tools, available for Mac, iPad, and iPhone, PDFpen from Smile makes you a Mac Power
+                User.&lt;/li&gt; &lt;li&gt;&lt;a href="http://www.fractureme.com"&gt;Fracture&lt;/a&gt; Bring your photos to life.&lt;/li&gt; &lt;li&gt;&lt;a href="http://squarespace.com/macpowerusers"&gt;Squarespace&lt;/a&gt;: Enter offer code MPU at checkout to
+                get 10% off your first purchase.&lt;/li&gt; &lt;/ul&gt; &lt;h4 style='display: inline;'&gt;Guest Starring:&lt;/h4&gt; &lt;p style='display: inline;'&gt;&lt;a href='http://www.relay.fm/people/serenitycaldwell'&gt;Serenity Caldwell&lt;/a&gt;&lt;/p&gt;
+                &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;iMore writer and artist Serenity Caldwell joins the Mac Power Users to talk about the iPad, Mac, the new iPhone, and artist workflows.&lt;/p&gt; &lt;h5&gt;&lt;a
+                href="https://www.relay.fm/people/serenitycaldwell" target="_blank"&gt;Serenity Caldwell - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/mpu/135" target="_blank"&gt;Mac Power Users #135: Workflows with Serenity Caldwell -
+                Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/settern" target="_blank"&gt;Serenity Caldwell (@settern) | Twitter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/settern/" target="_blank"&gt;Ren Caldwell
+                (@settern) • Instagram photos and videos&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/mpu/273" target="_blank"&gt;Mac Power Users #273: Workflows with Jonathan Mann - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.imore.com/ios-10-capable-musical-review" target="_blank"&gt;iOS 10 is capable: a musical review | iMore&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.logitech.com/en-us/product/create-ipad-pro-case"
+                target="_blank"&gt;Logitech Create iPad Pro case with any-angle viewing stand&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.workflow.is/" target="_blank"&gt;Workflow | Powerful automation made simple.&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.imore.com/welcome-imore-serenity-caldwell" target="_blank"&gt;Welcome to iMore, Serenity Caldwell! | iMore&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.imore.com/author/serenity%20caldwell" target="_blank"&gt;All Articles by
+                Serenity Caldwell | iMore&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://1writerapp.com/" target="_blank"&gt;1Writer - A beautiful and rich-featured Markdown editor for iPhone and iPad&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://www.fiftythree.com/paper" target="_blank"&gt;Paper &amp; Pencil by FiftyThree&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://itunes.apple.com/us/app/longscreen/id913571256?mt=8" target="_blank"&gt;LongScreen on the App
+                Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://aged-and-distilled.com/" target="_blank"&gt;Napkin for OS X - Say it with a picture, skip the 1,000 words&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.imore.com/iphone-7"
+                target="_blank"&gt;iPhone 7 Review: The Age of Fusion | iMore&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.filmicpro.com/" target="_blank"&gt;Mobile HD Video Camera for iPhone, iPad | App of the Year&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.obscuraapp.com/" target="_blank"&gt;Obscura&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://shootmanual.co/" target="_blank"&gt;Manual for iPhone&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.imore.com/review-apple-pencil-drawn-review-apple-pencil" target="_blank"&gt;An Apple Pencil-drawn review of the Apple Pencil | iMore&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://procreate.si/" target="_blank"&gt;Procreate for
+                iPad&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.adonit.net/jot/pro/" target="_blank"&gt;Precision Stylus for iPad, Android, &amp; Windows | Jot Pro&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.apple.com/apple-pencil/"
+                target="_blank"&gt;iPad Pro - Apple Pencil - Apple&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/16/mpu_artwork.png"/>
+        </item>
+        <item>
+            <title>Disruption 25: Canadian Stop and Frisk</title>
+            <description>In which we imagine a future where the Amazon delivery driver uses your smart lock to break into your house, then makes a fashionable escape in a purple getaway car with eyeliner headlight accents.
+            </description>
+            <pubDate>Mon, 03 Oct 2016 00:30:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/isometricrelay/disruption-025.mp3" length="35994021" type="audio/mp3"/>
+            <link>http://relay.fm/disruption/25</link>
+            <guid>http://relay.fm/disruption/25</guid>
+            <itunes:author>Georgia Dow, Brianna Wu, Mikah Sargent and Steve Lubitz</itunes:author>
+            <itunes:subtitle>In which we imagine a future where the Amazon delivery driver uses your smart lock to break into your house, then makes a fashionable escape in a purple getaway car with eyeliner headlight accents.
+            </itunes:subtitle>
+            <itunes:summary>In which we imagine a future where the Amazon delivery driver uses your smart lock to break into your house, then makes a fashionable escape in a purple getaway car with eyeliner headlight accents.
+            </itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>4498</itunes:duration>
+            <content:encoded>&lt;p&gt;In which we imagine a future where the Amazon delivery driver uses your smart lock to break into your house, then makes a fashionable escape in a purple getaway car with eyeliner headlight accents. &lt;/p&gt; &lt;h4&gt;This
+                episode of Disruption is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="https://www.braintreepayments.com/disruption"&gt;Braintree&lt;/a&gt;: Code for easy online payments.&lt;/li&gt; &lt;li&gt;&lt;a
+                href="https://pearlauto.com/disruption"&gt;Pearl RearVision&lt;/a&gt;: The wireless backup camera redefined.&lt;/li&gt; &lt;li&gt;&lt;a href="http://synd.co/2cync7Q"&gt;Hired&lt;/a&gt;: Find your next chapter and earn double the normal hiring bonus.
+                That’s $2,000 when you get Hired.&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;Have questions only the Disruption cast is qualified to address? Leave us a voicemail at (508) 418-3532 or tweet with the hashtag #DisruptMe
+                and we could answer them on a future episode!&lt;/p&gt; &lt;p&gt;Links:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a
+                href="http://www.politifact.com/truth-o-meter/statements/2016/sep/28/donald-trump/debate-donald-trump-says-stop-and-frisk-constituti/"&gt;Donald Trump and Lester Holt clash over whether stop-and-frisk is constitutional in New
+                York&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="http://autoweek.com/article/wait-theres-more/vw-and-cosmopolitan-team-create-perfect-car-women"&gt;So...this is what SEAT and Cosmo think women want in a car | Autoweek&lt;/a&gt;&lt;/li&gt;
+                &lt;li&gt;&lt;a href="http://www.htc.com/us/smartphones/htc-rhyme/"&gt;HTC Rhyme Specs and Reviews | HTC United States&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
+                href="http://www.dailymail.co.uk/femail/article-3484499/Female-workers-ridicule-Bic-s-pink-pens-sarcastic-hand-written-messages-man-produce-squiggles.html"&gt;Female workers ridicule Bic&amp;#39;s pink pens &amp;#39;For Her&amp;#39; with sarcastic
+                hand-written messages | Daily Mail Online&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="https://techcrunch.com/2016/09/27/amazon-could-be-working-on-in-home-package-deliveries/"&gt;Amazon could be working on in-home package deliveries |
+                TechCrunch&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="http://august.com/2015/10/14/introducing-the-next-phase-of-august/"&gt;Introducing the Next Phase of August Home - August&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
+                href="https://www.cnet.com/news/august-smart-lock-hacked/"&gt;Here&amp;#39;s what happened when someone hacked the August Smart Lock - CNET&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=zZCszIUcyVM"&gt;The IT Crowd S01E06
+                Opening Scene Thank You - YouTube&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+            </content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/27/disruption_artwork.png"/>
+        </item>
+        <item>
+            <title>Analog(ue) 90: Hurt Your Precious, Precious Feelings</title>
+            <description>Casey embarks on a drastic experiment and Myke gives *yet another* house update.</description>
+            <pubDate>Sun, 02 Oct 2016 22:30:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/analogue/Analogue_090.mp3" length="53492789" type="audio/mp3"/>
+            <link>http://relay.fm/analogue/90</link>
+            <guid>http://relay.fm/analogue/90</guid>
+            <itunes:author>Casey Liss and Myke Hurley</itunes:author>
+            <itunes:subtitle>Casey embarks on a drastic experiment and Myke gives *yet another* house update.</itunes:subtitle>
+            <itunes:summary>Casey embarks on a drastic experiment and Myke gives *yet another* house update.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>4414</itunes:duration>
+            <content:encoded>&lt;p&gt;Casey embarks on a drastic experiment and Myke gives &lt;em&gt;yet another&lt;/em&gt; house update.&lt;/p&gt; &lt;h4&gt;This episode of Analog(ue) is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a
+                href="http://promo.linode.com/analogue?utm_source=analogue&amp;amp;utm_medium=podcast&amp;amp;utm_content=20%20dollar&amp;amp;utm_campaign=analogue"&gt;Linode&lt;/a&gt;: High performance SSD Linux servers for all of your infrastructure needs. Get a
+                $20 credit with promo code ‘analogue20’&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a href="https://suspenseaccents.com/" target="_blank"&gt;Suspense Accents&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/noliberalbull/status/777592320610951170" target="_blank"&gt;Gabriel the Champion&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://atp.fm/episodes/187" target="_blank"&gt;Accidental Tech Podcast: 187: Putting Plastic on Your
+                Couches&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://atp.fm/episodes/188" target="_blank"&gt;Accidental Tech Podcast: 188: $850 Fidget Cube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/rd/35" target="_blank"&gt;Reconcilable
+                Differences #35: A Lot of Them Are Tricks&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/analogue/79" target="_blank"&gt;Analog(ue) #79: Like in Pizza&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;The episode that Adina filled in for Casey.&lt;/p&gt;
+                &lt;h5&gt;&lt;a href="https://cocoapods.org/" target="_blank"&gt;CocoaPods&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/analogue/20" target="_blank"&gt;Analog(ue) #20: The Only Winning Move Is Not to Play&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/8/analogue_artwork.png"/>
+        </item>
+        <item>
+            <title>Canvas 20: iWork 3.0</title>
+            <description>This week Fraser and Federico take a tour of iWork 3.0.</description>
+            <pubDate>Fri, 30 Sep 2016 10:00:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/relaycanvas/Canvas_20_-_iWork_3.0.mp3" length="43774990" type="audio/mp3"/>
+            <link>http://relay.fm/canvas/20</link>
+            <guid>http://relay.fm/canvas/20</guid>
+            <itunes:author>Fraser Speirs and Federico Viticci</itunes:author>
+            <itunes:subtitle>This week Fraser and Federico take a tour of iWork 3.0.</itunes:subtitle>
+            <itunes:summary>This week Fraser and Federico take a tour of iWork 3.0.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>2735</itunes:duration>
+            <content:encoded>&lt;p&gt;This week Fraser and Federico take a tour of iWork 3.0.&lt;/p&gt; &lt;h4&gt;This episode of Canvas is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="http://pingdom.com/canvas"&gt;Pingdom&lt;/a&gt;: Start
+                monitoring your websites and servers today. Use offer CANVAS for 20% off.&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;iWork has been through numerous changes over the years, including being ported to iOS and the web.
+                More recently, collaboration features and web broadcasting of Keynote presentations have all come along to join the party.&lt;/p&gt; &lt;h5&gt;Featured Apps&lt;/h5&gt; &lt;ul&gt; &lt;li&gt;&lt;a
+                href="https://itunes.apple.com/us/app/keynote/id361285480?mt=8&amp;amp;uo=4"&gt;Keynote&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href="https://itunes.apple.com/us/app/pages/id361309726?mt=8&amp;amp;uo=4"&gt;Pages&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a
+                href="https://itunes.apple.com/us/app/numbers/id361304891?mt=8&amp;amp;uo=4"&gt;Numbers&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt;
+            </content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/25/canvas_artwork.png"/>
+        </item>
+        <item>
+            <title>Rocket 90: These Memes Are Gross</title>
+            <description>Brianna, Christina, and Simone discuss Palmer Luckey's financial backing of an alt-right meme Think Tank, and the latest iPhone-gate. Finally, they weigh in on whether Snap Inc.'s new glasses are really hideous or not!</description>
+            <pubDate>Thu, 29 Sep 2016 22:00:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rocketrelay/rocket090.mp3" length="42670617" type="audio/mp3"/>
+            <link>http://relay.fm/rocket/90</link>
+            <guid>http://relay.fm/rocket/90</guid>
+            <itunes:author>Simone De Rochefort, Christina Warren and Brianna Wu</itunes:author>
+            <itunes:subtitle>Brianna, Christina, and Simone discuss Palmer Luckey's financial backing of an alt-right meme Think Tank, and the latest iPhone-gate. Finally, they weigh in on whether Snap Inc.'s new glasses are really hideous or not!</itunes:subtitle>
+            <itunes:summary>Brianna, Christina, and Simone discuss Palmer Luckey's financial backing of an alt-right meme Think Tank, and the latest iPhone-gate. Finally, they weigh in on whether Snap Inc.'s new glasses are really hideous or not!</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>3416</itunes:duration>
+            <content:encoded>&lt;p&gt;Brianna, Christina, and Simone discuss Palmer Luckey&amp;#39;s financial backing of an alt-right meme Think Tank, and the latest iPhone-gate. Finally, they weigh in on whether Snap Inc.&amp;#39;s new glasses are really
+                hideous or not!&lt;/p&gt; &lt;h4&gt;This episode of Rocket is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="http://smilesoftware.com/rocket?crcat=rocket&amp;amp;crsource=textexpander&amp;amp;crcampaign=sep16"&gt;TextExpander, from
+                Smile&lt;/a&gt;: Communicate smarter with TextExpander.&lt;/li&gt; &lt;li&gt;&lt;a href="https://www.helpspot.com/rocket"&gt;HelpSpot&lt;/a&gt;: The most comprehensive and flexible help desk software around. Get 10% off with the code
+                ROCKET.&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a href="http://gizmodo.com/palmer-luckey-millionaire-founder-of-oculus-rift-love-1786994094?rev=1474646091424" target="_blank"&gt;Palmer Luckey, Millionaire
+                Founder of Oculus Rift, Loves Donald Trump and Dates a Gamergater&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.thedailybeast.com/articles/2016/09/22/palmer-luckey-the-facebook-billionaire-secretly-funding-trump-s-meme-machine.html"
+                target="_blank"&gt;Palmer Luckey: The Facebook Near-Billionaire Secretly Funding Trump’s Meme Machine - The Daily Beast&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://512pixels.net/2016/09/iphone-7-plus-logic-board-noise/" target="_blank"&gt;My
+                iPhone 7 Plus is Emitting Noise From Logic Board (Updated) – 512 Pixels&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.theverge.com/2016/9/18/12960526/iphone-7-hissing-noises-coil-whine" target="_blank"&gt;Why are some iPhone 7s making hissing
+                noises? - The Verge&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.imore.com/no-hiss-buzz-not-unique-not-iphone-7-problem" target="_blank"&gt;No, hisses and buzzes aren't unique to iPhone 7 and aren't a problem | iMore&lt;/a&gt;&lt;/h5&gt;
+                &lt;h5&gt;&lt;a href="http://www.businessinsider.com/snapchat-glasses-2016-9" target="_blank"&gt;Snapchat glasses - Business Insider&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.wsj.com/articles/snapchat-releases-first-hardware-product-spectacles-1474682719" target="_blank"&gt;Snapchat Releases First Hardware Product, Spectacles - WSJ&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.nytimes.com/2016/09/25/books/review/trainwreck-sady-doyle.html?_r=2" target="_blank"&gt;What We Can Learn From Women Who Break the Rules - The New York Times&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/14/rocket_artwork.png"/>
+        </item>
+        <item>
+            <title>Presentable 9: Designing for the App Store, with John Gruber</title>
+            <description>This week we talk to preeminent Apple blogger John Gruber about his experiences designing and developing iOS app Vesper, the challenges of App Store pricing, and how feature prioritization is as much a business decision as it is a design issue.</description>
+            <pubDate>Thu, 29 Sep 2016 17:00:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/presentable/009_Presentable_-_Designing_for_the_App_Store_with_John_Gruber.mp3" length="33707037" type="audio/mp3"/>
+            <link>http://relay.fm/presentable/9</link>
+            <guid>http://relay.fm/presentable/9</guid>
+            <itunes:author>Jeff Veen</itunes:author>
+            <itunes:subtitle>This week we talk to preeminent Apple blogger John Gruber about his experiences designing and developing the iOS app Vesper.</itunes:subtitle>
+            <itunes:summary>This week we talk to preeminent Apple blogger John Gruber about his experiences designing and developing the iOS app Vesper.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>2808</itunes:duration>
+            <content:encoded>&lt;p&gt;This week we talk to preeminent Apple blogger John Gruber about his experiences designing and developing iOS app Vesper, the challenges of App Store pricing, and how feature prioritization is as much a business decision as
+                it is a design issue.&lt;/p&gt; &lt;h4&gt;This episode of Presentable is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="http://freshbooks.com/presentable"&gt;Freshbooks&lt;/a&gt;: Online invoicing made easy.&lt;/li&gt; &lt;/ul&gt; &lt;h4
+                style='display: inline;'&gt;Guest Starring:&lt;/h4&gt; &lt;p style='display: inline;'&gt;&lt;a href='http://www.relay.fm/people/Johngruber'&gt;John Gruber&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a
+                href="http://www.nytimes.com/2016/09/08/technology/whats-really-missing-from-the-new-iphone-dazzle.html?_r=0" target="_blank"&gt;The New York Times: What’s Really Missing From the New iPhone: Cutting-Edge Design&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://daringfireball.net/2016/09/design_as_branding" target="_blank"&gt;Daring Fireball: Design as Branding&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://blog.sketchapp.com/versioning-licensing-and-sketch-4-0-8ad98783e9ba#.qw3xuzod6"
+                target="_blank"&gt;Versioning, Licensing, and Sketch 4.0&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://daringfireball.net/2016/06/the_new_app_store" target="_blank"&gt;Daring Fireball: The New App Store: Subscription Pricing, Faster Approvals,
+                and Search Ads&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://overcast.fm/" target="_blank"&gt;Overcast: Simple podcast player for iPhone, iPad, and Apple Watch.&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://supertop.co/castro/"
+                target="_blank"&gt;Castro 2: Play and Share Podcasts.&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://tapbots.com/tweetbot/" target="_blank"&gt;Tweetbot: A Twitter Client with Personality.&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://daringfireball.net/" target="_blank"&gt;Daring Fireball&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://daringfireball.net/thetalkshow/" target="_blank"&gt;The Talk Show&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/gruber" target="_blank"&gt;John Gruber (@gruber) | Twitter&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/29/presentable_artwork.png"/>
+        </item>
+        <item>
+            <title>Thoroughly Considered 19: Smushed by the Gears of Industry</title>
+            <description>Some would say this episode features a smorgasbord of updates.</description>
+            <pubDate>Thu, 29 Sep 2016 10:45:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thoroughlyconsidered/Thoroughly_Considered_019.mp3" length="28430927" type="audio/mp3"/>
+            <link>http://relay.fm/tc/19</link>
+            <guid>http://relay.fm/tc/19</guid>
+            <itunes:author>Tom Gerhardt, Dan Provost and Myke Hurley</itunes:author>
+            <itunes:subtitle>Some would say this episode features a smorgasbord of updates.</itunes:subtitle>
+            <itunes:summary>Some would say this episode features a smorgasbord of updates.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>2340</itunes:duration>
+            <content:encoded>&lt;p&gt;Some would say this episode features a smorgasbord of updates.&lt;/p&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a href="https://twit.tv/shows/ios-today/episodes/313?autostart=false" target="_blank"&gt;iOS
+                Today 313 iOS Picks from Myke Hurley | TWiT&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/studioneat/" target="_blank"&gt;Studio Neat (@studioneat) • Instagram photos and videos&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://www.kickstarter.com/projects/danprovost/the-new-glif-a-tripod-mount-for-smartphones-redesi/posts/1691779" target="_blank"&gt;Glif Status Update&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.studioneat.com/products/slowfast"
+                target="_blank"&gt;Slow Fast Slow | Control the Speed of Your iPhone Video – Studio Neat&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/22/tc_artwork.png"/>
+        </item>
+        <item>
+            <title>Under the Radar 47: Data Persistence</title>
+            <description>Choosing a database or scheme for local data storage, including Core Data, SQLite, property lists, JSON, user defaults, and NSURLCache.</description>
+            <pubDate>Thu, 29 Sep 2016 06:00:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/radarrelay/undertheradar47.mp3" length="14405042" type="audio/mp3"/>
+            <link>http://relay.fm/radar/47</link>
+            <guid>http://relay.fm/radar/47</guid>
+            <itunes:author>David Smith and Marco Arment</itunes:author>
+            <itunes:subtitle>Choosing a database or scheme for local data storage, including Core Data, SQLite, property lists, JSON, user defaults, and NSURLCache.</itunes:subtitle>
+            <itunes:summary>Choosing a database or scheme for local data storage, including Core Data, SQLite, property lists, JSON, user defaults, and NSURLCache.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>1787</itunes:duration>
+            <content:encoded>&lt;p&gt;Choosing a database or scheme for local data storage, including Core Data, SQLite, property lists, JSON, user defaults, and NSURLCache.&lt;/p&gt; &lt;h4&gt;This episode of Under the Radar is sponsored by:&lt;/h4&gt;
+                &lt;ul&gt; &lt;li&gt;&lt;a href="http://promo.linode.com/under-the-radar?utm_source=under-the-radar&amp;amp;utm_medium=podcast&amp;amp;utm_content=20%20dollar&amp;amp;utm_campaign=under%20the%20radar"&gt;Linode&lt;/a&gt;: High performance SSD Linux
+                servers for all of your infrastructure needs. Get a $20 credit with promo code ‘radar20’&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;&lt;a
+                href="http://static.developingperspective.com/undertheradar47.txt"&gt;&lt;strong&gt;Episode Transcript&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/23/radar_artwork.png"/>
+        </item>
+        <item>
+            <title>B-Sides 26: The Mac Draft</title>
+            <description>Stephen Hackett is joined by Christina Warren, Ed Cormany and Brian Sutorius to draft their favorite Macs.</description>
+            <pubDate>Thu, 29 Sep 2016 05:00:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/rleayfmbsides/Mac_Draft.mp3" length="35146836" type="audio/mp3"/>
+            <link>http://relay.fm/b-sides/26</link>
+            <guid>http://relay.fm/b-sides/26</guid>
+            <itunes:author>Relay FM Hosts</itunes:author>
+            <itunes:subtitle>Stephen Hackett is joined by Christina Warren, Ed Cormany and Brian Sutorius to draft their favorite Macs.</itunes:subtitle>
+            <itunes:summary>Stephen Hackett is joined by Christina Warren, Ed Cormany and Brian Sutorius to draft their favorite Macs.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>2928</itunes:duration>
+            <content:encoded>&lt;p&gt;Stephen Hackett is joined by Christina Warren, Ed Cormany and Brian Sutorius to draft their favorite Macs.&lt;/p&gt; &lt;h4 style='display: inline;'&gt;Guest Starring:&lt;/h4&gt; &lt;p style='display: inline;'&gt;&lt;a
+                href='http://www.relay.fm/people/bsutorius'&gt;Brian Sutorius&lt;/a&gt;, &lt;a href='http://www.relay.fm/people/edcormany'&gt;Ed Cormany&lt;/a&gt;, &lt;a href='http://www.relay.fm/people/stephenhackett'&gt;Stephen Hackett&lt;/a&gt;, and &lt;a
+                href='http://www.relay.fm/people/christinawarren'&gt;Christina Warren&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a href="http://simplebeep.com/" target="_blank"&gt;Simple Beep Podcast&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Ed
+                and Brian&amp;#39;s podcast about the the history of Apple and the Mac community.&lt;/p&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/rocket" target="_blank"&gt;Rocket - Relay FM&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://mashable.com/2015/06/23/jerry-seinfeld-used-a-mac/#cI3vbABKumqr" target="_blank"&gt;Hulu's 'Seinfeld' apartment is now perfect — Mashable&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/bsuto" target="_blank"&gt;Brian
+                Sutorius (@bsuto) | Twitter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/ecormany" target="_blank"&gt;Ed Cormany (@ecormany) | Twitter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/film_girl"
+                target="_blank"&gt;Christina Warren (@film_girl) | Twitter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/ismh" target="_blank"&gt;Stephen Hackett (@ismh) | Twitter&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/10/b-sides_artwork.png"/>
+        </item>
+        <item>
+            <title>Material 66: Route 66</title>
+            <description>Russell comes to the end of his Noteworthy journey. Yasmine shines a bright light on the Google Assistant while it sweats uncomfortably. Andy dreams big about October 4th. That's right it's been a HUGE week since our last episode aired
+                filled with product releases and rumours. We also have some cool news to share: Our next episode will be aired LIVE ON THE LINE mere hours after the Google event. Watch us react, watch us flounder, heck even watch us sweat under the heat that is
+                studio lighting as we dissect everything Google announces on October the 4th. This episode is not to be missed!</description>
+            <pubDate>Thu, 29 Sep 2016 04:45:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/materialpodcast/066.mp3" length="78836024" type="audio/mp3"/>
+            <link>http://relay.fm/material/66</link>
+            <guid>http://relay.fm/material/66</guid>
+            <itunes:author>Russell Ivanovic, Andy Ihnatko and Yasmine Evjen</itunes:author>
+            <itunes:subtitle>Russell comes to the end of his Noteworthy journey. Yasmine shines a bright light on the Google Assistant while it sweats uncomfortably. Andy dreams big about October 4th.</itunes:subtitle>
+            <itunes:summary>Russell comes to the end of his Noteworthy journey. Yasmine shines a bright light on the Google Assistant while it sweats uncomfortably. Andy dreams big about October 4th.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>4924</itunes:duration>
+            <content:encoded>&lt;p&gt;Russell comes to the end of his Noteworthy journey. Yasmine shines a bright light on the Google Assistant while it sweats uncomfortably. Andy dreams big about October 4th. That&amp;#39;s right it&amp;#39;s been a HUGE week
+                since our last episode aired filled with product releases and rumours.&lt;/p&gt; &lt;p&gt;We also have some cool news to share: Our next episode will be aired LIVE ON THE LINE mere hours after the Google event. Watch us react, watch us flounder, heck
+                even watch us sweat under the heat that is studio lighting as we dissect everything Google announces on October the 4th. This episode is not to be missed!&lt;/p&gt; &lt;h4&gt;This episode of Material is sponsored by:&lt;/h4&gt; &lt;ul&gt;
+                &lt;li&gt;&lt;a href="https://linode.com/material20/?utm_source=material&amp;amp;utm_medium=podcast&amp;amp;utm_content=20%20dollar&amp;amp;utm_campaign=material20"&gt;Linode&lt;/a&gt;: High performance SSD Linux servers for all of your
+                infrastructure needs. Get a $20 credit with promo code ‘material20’&lt;/li&gt; &lt;li&gt;&lt;a href="http://synd.co/2cLTrAC"&gt;Indeed Prime&lt;/a&gt;: Let top tech companies apply to you. Sign up and receive $5k when you land your dream
+                job.&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;p&gt;Live Episode Next Week! &lt;a href="https://www.youtube.com/watch?v=UePyZCJw1Bs"&gt;Subscribe on YouTube&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Find us Online&lt;/p&gt;
+                &lt;p&gt;&lt;strong&gt;Support The Show&lt;/strong&gt;&lt;br&gt; &lt;a href="http://www.relay.fm/material"&gt;relay.fm/material&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Give us some love, leave us an iTunes Review&lt;/strong&gt;&lt;br&gt; &lt;a
+                href="https://itunes.apple.com/us/podcast/material/id1015422651"&gt;Material Podcast on iTunes&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;We want to hear from you, send us a message.&lt;/strong&gt;&lt;br&gt; &lt;a
+                href="mailto:materialpodcast@gmail.com"&gt;materialpodcast@gmail.com&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Follow us on Twitter&lt;/strong&gt;&lt;br&gt; Material Podcast - &lt;a
+                href="https://twitter.com/materialpodcast"&gt;@materialpodcast&lt;/a&gt;&lt;br&gt; Andy Ihnatko - &lt;a href="https://twitter.com/Ihnatko"&gt;@Ihnatko&lt;/a&gt;&lt;br&gt; Russell Ivanovic - &lt;a
+                href="https://twitter.com/rustyshelf"&gt;@rustyshelf&lt;/a&gt;&lt;br&gt; Yasmine Evjen - &lt;a href="https://twitter.com/yasmineevjen"&gt;@yasmineevjen&lt;/a&gt;&lt;/p&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/ChoateFirm/status/778961881729896450" target="_blank"&gt;Chris Choate on Twitter: "@materialpodcast: y'all are the best! @rustyshelf actually inadvertently said "Kirkendoll" which is how it's pronounced. #yeehaw
+                🙂"&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;RussellWasRight&lt;/p&gt; &lt;h5&gt;&lt;a href="https://www.google.com/doodles/googles-18th-birthday" target="_blank"&gt;Google's 18th Birthday&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/Android/status/779696907493015552" target="_blank"&gt;Android on Twitter: "8 epic years. Naturally, we're celebrating with some of our favorite treats. #Android https://t.co/t2GPZWSCJj"&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Android
+                Cake&lt;/p&gt; &lt;h5&gt;&lt;a href="http://www.androidpolice.com/2016/09/20/allo-weird-sms-explained-other-answers/" target="_blank"&gt;Allo's weird SMS support explained, and other answers&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://googleblog.blogspot.com/2016/09/google-allo-smarter-messaging-app.html" target="_blank"&gt;Official Google Blog: Say hello to Google Allo: a smarter messaging app&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.theverge.com/2016/9/21/12994362/allo-privacy-message-logs-google" target="_blank"&gt;Google backs off on previously announced Allo privacy feature - The Verge&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/lockheimer/status/779757830203068416" target="_blank"&gt;Hiroshi Lockheimer on Twitter: "We announced the 1st version of Android 8 years ago today. I have a feeling 8 years from now we'll be talking about Oct 4,
+                2016."&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;We announced the 1st version of Android 8 years ago today. I have a feeling 8 years from now we&amp;#39;ll be talking about Oct 4, 2016&lt;/p&gt; &lt;h5&gt;&lt;a
+                href="http://www.wsj.com/articles/alphabets-google-to-fold-chrome-operating-system-into-android-1446151134" target="_blank"&gt;Alphabet’s Google to Fold Chrome Operating System Into Android - WSJ&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://chrome.googleblog.com/2015/11/chrome-os-is-here-to-stay.html" target="_blank"&gt;Google Chrome Blog: Chrome OS is here to stay&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Over the last few days, there’s been some confusion about the future of Chrome
+                OS and Chromebooks based on speculation that Chrome OS will be folded into Android. While we’ve been working on ways to bring together the best of both operating systems, there&amp;#39;s no plan to phase out Chrome OS.&lt;/p&gt; &lt;h5&gt;&lt;a
+                href="http://www.androidpolice.com/2016/09/23/exclusive-google-will-introduce-google-wifi-a-129-home-wi-fi-router-on-october-4th/" target="_blank"&gt;Exclusive: Google will introduce Google Wifi, a $129 home Wi-Fi router, on October
+                4th&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.droid-life.com/2016/09/23/want-know-google-wifi-ok-lets-talk/" target="_blank"&gt;Want to Know More About Google WiFi? OK, Let's Talk. | Droid Life&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://techcrunch.com/2016/09/26/google-adds-spanish-language-voting-guides-to-search/" target="_blank"&gt;Google adds Spanish-language voting guides to Search | TechCrunch&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Google is continuing its push to get more
+                Americans registered to vote ahead of the upcoming presidential elections by expanding its voter information guides in Google Search to Spanish.&lt;/p&gt; &lt;h5&gt;&lt;a href="https://twitter.com/YasmineEvjen/status/778811509199609856"
+                target="_blank"&gt;Yasmine Evjen on Twitter: "Allo doesn't let you type a Direct Reply. It lets you tap Smart Reply options. 👎 Annoying, especially when none are given. LET ME DO BOTH. https://t.co/cOHgDXcRqY"&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/YasmineEvjen/status/779089612358553601" target="_blank"&gt;Yasmine Evjen on Twitter: "#GoogleAllo on Android Wear with multiple chats. Chats won't expand, so you can't see the messages.
+                https://t.co/ZMueKrwxos"&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/YasmineEvjen/status/779090392788574208" target="_blank"&gt;Yasmine Evjen on Twitter: "Messages from a single chat display without a problem. You can reply if
+                smart replies are provided by Google Assistant #GoogleAllo https://t.co/nYCXDmu5jJ"&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/YasmineEvjen/status/780138369971998720" target="_blank"&gt;Yasmine Evjen on Twitter: "Google Assistant
+                still in preview had to ask "Presidential Debate dates" to get the answer to What time is the Presidential Debate tomorrow? https://t.co/4bIrIvigdL"&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/YasmineEvjen/status/779774078513127428" target="_blank"&gt;Yasmine Evjen on Twitter: "Google Assistant and I have decided to look past our flaws 🤖😍 https://t.co/jKzWm5YxNl"&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/YasmineEvjen/status/780133555611443201" target="_blank"&gt;Yasmine Evjen on Twitter: "🖖🤖 https://t.co/H7rd6gmOiw"&lt;/a&gt;&lt;/h5&gt;&lt;p&gt;Are you a fan of Star Trek?&lt;/p&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/YasmineEvjen/status/780152836256505856" target="_blank"&gt;Yasmine Evjen on Twitter: "Can we talk about #GoogleAllo stickers? This sticker is animated... https://t.co/dvI28rBI57"&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/YasmineEvjen/status/778803954314452992" target="_blank"&gt;Yasmine Evjen on Twitter: "The Entertainment Quiz on Allo is fun. What a clever way of displaying additional information when the answer is revealed.
+                https://t.co/8B17RfflXu"&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/19/material_artwork.png"/>
+        </item>
+        <item>
+            <title>The Pen Addict 224: My Ink Smells</title>
+            <description>UGH! Pen Pineapple Apple Pen! We bring you all of today’s hits on this episode, including a Lanier update, how and where to sell a pen, more death of handwriting talk, and catch up on the latest #asktpa.
+            </description>
+            <pubDate>Wed, 28 Sep 2016 17:30:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/thepenaddict/The_Pen_Addict_224.mp3" length="51309437" type="audio/mp3"/>
+            <link>http://relay.fm/penaddict/224</link>
+            <guid>http://relay.fm/penaddict/224</guid>
+            <itunes:author>Brad Dowdy and Myke Hurley</itunes:author>
+            <itunes:subtitle>UGH! Pen Pineapple Apple Pen! We bring you all of today’s hits on this episode, including a Lanier update, how and where to sell a pen, more death of handwriting talk, and catch up on the latest #asktpa.
+            </itunes:subtitle>
+            <itunes:summary>UGH! Pen Pineapple Apple Pen! We bring you all of today’s hits on this episode, including a Lanier update, how and where to sell a pen, more death of handwriting talk, and catch up on the latest #asktpa.
+            </itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>4272</itunes:duration>
+            <content:encoded>&lt;p&gt;UGH! Pen Pineapple Apple Pen! We bring you all of today’s hits on this episode, including a Lanier update, how and where to sell a pen, more death of handwriting talk, and catch up on the latest #asktpa.&lt;/p&gt;
+                &lt;h4&gt;This episode of The Pen Addict is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="http://penchalet.com"&gt;Pen Chalet&lt;/a&gt;: Click the ‘podcast’ link at the top of the website and enter the password ‘penaddict’ for this week’s
+                special offer, and to get your code for 10% off.&lt;/li&gt; &lt;li&gt;&lt;a href="http://criquetshirts.com/penaddict"&gt;Criquet&lt;/a&gt;: Get 20% off with the code PENADDICT.&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt;
+                &lt;h5&gt;&lt;a href="https://www.kickstarter.com/projects/637878316/the-lanier-briefcase-by-nock-co/description" target="_blank"&gt;The Lanier Briefcase By Nock Co. by NockCo — Kickstarter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://www.facebook.com/London-Writing-Equipment-Show-497467570386108/" target="_blank"&gt;London Writing Equipment Show&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.instagram.com/p/BKs-YHzBOIt/" target="_blank"&gt;Nock Co. Retail
+                Tags - Instagram&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.everydaycommentary.com/2016/09/a-rebuttal-to-anti-cursive-lady-why.html" target="_blank"&gt;Everyday Commentary: A Rebuttal to the Anti-Cursive Lady: Why Anne Trubek is
+                Wrong&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.everydaycommentary.com/2016/09/anne-trubeks-response.html" target="_blank"&gt;Everyday Commentary: Anne Trubek's Response&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.everydaycommentary.com/2016/09/my-responses-to-anne-trubeks-rebuttal.html" target="_blank"&gt;Everyday Commentary: My Responses to Anne Trubek's Rebuttal&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.cbc.ca/radio/q/schedule-for-tuesday-september-27-2016-1.3780334/is-handwriting-obsolete-in-the-digital-age-1.3780358" target="_blank"&gt;Is handwriting obsolete in the digital age? - Home | q | CBC Radio&lt;/a&gt;&lt;/h5&gt;
+                &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=d9TpRfDdyU0" target="_blank"&gt;PPAP Pen Pineapple Apple Pen - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.penaddict.com/members/" target="_blank"&gt;Members — The Pen
+                Addict&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://fpgeeks.com/forum/forumdisplay.php/7-Classifieds?s=4ed835b6fdb911ec5ed8569b618a6a89" target="_blank"&gt;FP Geeks Classifieds&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.fountainpennetwork.com/forum/index.php?/classifieds/" target="_blank"&gt;Classifieds - The Fountain Pen Network&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.reddit.com/r/Pen_Swap/" target="_blank"&gt;Penswap
+                Reddit&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.penaddict.com/contact" target="_blank"&gt;Contact — The Pen Addict&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://www.pelikan.com/pulse/Pulsar/en_US_INTL.CMS.displayCMS.206767./pelikan-hubs-2016" target="_blank"&gt;Pelikan Hubs 2016&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.wonderpens.ca/" target="_blank"&gt;Wonder
+                Pens&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.jetpens.com/Uni-Jetstream-Ballpoint-Pens/ct/354" target="_blank"&gt;Uni Jetstream Ballpoint Pens - JetPens.com&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.franklin-christoph.com/accessories.html" target="_blank"&gt;Franklin-Christoph Cases&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.bureaudirect.co.uk/j-herbin-rollerball-pen" target="_blank"&gt;J Herbin rollerball pen -
+                Bureau Direct&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/9/penaddict_artwork.png"/>
+        </item>
+        <item>
+            <title>B-Sides 25: I Got the Pills from Walmart</title>
+            <description>Anze took some pills he got for $4 at a Walmart. Georgia teaches us about Melotonin. Jason and Dan mess up the show, but hey, they've only done it 156 times. There's always next week.</description>
+            <pubDate>Wed, 28 Sep 2016 17:30:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/bside156.mp3" length="4473526" type="audio/mp3"/>
+            <link>http://relay.fm/b-sides/25</link>
+            <guid>http://relay.fm/b-sides/25</guid>
+            <itunes:author>Relay FM Hosts</itunes:author>
+            <itunes:subtitle></itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>272</itunes:duration>
+            <content:encoded>&lt;p&gt;Anze took some pills he got for $4 at a Walmart. Georgia teaches us about Melotonin. Jason and Dan mess up the show, but hey, they&amp;#39;ve only done it 156 times. There&amp;#39;s always next week.&lt;/p&gt; &lt;h4
+                style='display: inline;'&gt;Guest Starring:&lt;/h4&gt; &lt;p style='display: inline;'&gt;&lt;a href='http://www.relay.fm/people/Jasonsnell'&gt;Jason Snell&lt;/a&gt;, &lt;a href='http://www.relay.fm/people/georgiadow'&gt;Georgia Dow&lt;/a&gt;, &lt;a
+                href='http://www.relay.fm/people/danmoren'&gt;Dan Moren&lt;/a&gt;, and &lt;a href='http://www.relay.fm/people/atomic'&gt;Anže Tomić&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/10/b-sides_artwork.png"/>
+        </item>
+        <item>
+            <title>Clockwise 156: Right, That's Still Going On!</title>
+            <description>Blocking spam calls, other uses for a Galaxy Note 7, the prospect (again) of Google-built phones, and Blackberry's body hits the floor.</description>
+            <pubDate>Wed, 28 Sep 2016 17:15:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/clockwiserelay/clockwise156.mp3" length="21720777" type="audio/mp3"/>
+            <link>http://relay.fm/clockwise/156</link>
+            <guid>http://relay.fm/clockwise/156</guid>
+            <itunes:author>Dan Moren and Jason Snell</itunes:author>
+            <itunes:subtitle>Blocking spam calls, other uses for a Galaxy Note 7, the prospect (again) of Google-built phones, and Blackberry's body hits the floor. With Georgia Dow and Anze Tomic.</itunes:subtitle>
+            <itunes:summary>Blocking spam calls, other uses for a Galaxy Note 7, the prospect (again) of Google-built phones, and Blackberry's body hits the floor. With Georgia Dow and Anze Tomic.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>1799</itunes:duration>
+            <content:encoded>&lt;p&gt;Blocking spam calls, other uses for a Galaxy Note 7, the prospect (again) of Google-built phones, and Blackberry&amp;#39;s body hits the floor.&lt;/p&gt; &lt;h4&gt;This episode of Clockwise is sponsored by:&lt;/h4&gt;
+                &lt;ul&gt; &lt;li&gt;&lt;a href="https://linode.com/clockwise/?utm_source=clockwise&amp;amp;utm_medium=podcast&amp;amp;utm_content=20%20dollar&amp;amp;utm_campaign=clockwise20"&gt;Linode&lt;/a&gt;: High performance SSD Linux servers for all of your
+                infrastructure needs. Get a $20 credit with promo code ‘clockwise20’&lt;/li&gt; &lt;li&gt;&lt;a href="https://www.helpspot.com/clockwise"&gt;HelpSpot&lt;/a&gt;: The most comprehensive and flexible help desk software around. Get 10% off with the code
+                CLOCKWISE.&lt;/li&gt; &lt;/ul&gt; &lt;h4 style='display: inline;'&gt;Guest Starring:&lt;/h4&gt; &lt;p style='display: inline;'&gt;&lt;a href='http://www.relay.fm/people/georgiadow'&gt;Georgia Dow&lt;/a&gt; and &lt;a
+                href='http://www.relay.fm/people/atomic'&gt;Anže Tomić&lt;/a&gt;&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/12/clockwise_artwork.png"/>
+        </item>
+        <item>
+            <title>Ungeniused 9: The Bermuda Triangle</title>
+            <description>The Bermuda Triangle is a loosely-defined region in the western part of the North Atlantic Ocean, where a number of aircraft and ships are said to have disappeared under mysterious circumstances.</description>
+            <pubDate>Wed, 28 Sep 2016 12:00:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/ungeniusedrelay/Ungeniused_9.mp3" length="8905609" type="audio/mp3"/>
+            <link>http://relay.fm/ungeniused/9</link>
+            <guid>http://relay.fm/ungeniused/9</guid>
+            <itunes:author>Stephen Hackett and Myke Hurley</itunes:author>
+            <itunes:subtitle>The Bermuda Triangle is a loosely-defined region in the western part of the North Atlantic Ocean, where a number of aircraft and ships are said to have disappeared under mysterious circumstances.</itunes:subtitle>
+            <itunes:summary>The Bermuda Triangle is a loosely-defined region in the western part of the North Atlantic Ocean, where a number of aircraft and ships are said to have disappeared under mysterious circumstances.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>728</itunes:duration>
+            <content:encoded>&lt;p&gt;The Bermuda Triangle is a loosely-defined region in the western part of the North Atlantic Ocean, where a number of aircraft and ships are said to have disappeared under mysterious circumstances.&lt;/p&gt; &lt;h4&gt;Links
+                and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Bermuda_Triangle" target="_blank"&gt;Bermuda Triangle - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://en.wikipedia.org/wiki/Flight_19"
+                target="_blank"&gt;Flight 19 - Wikipedia&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://web.archive.org/web/20160305030805/http://www.bermuda-triangle.org/html/the_derelict_rosalie.html" target="_blank"&gt;The Derelict
+                Rosalie&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/28/ungeniused_artwork.png"/>
+        </item>
+        <item>
+            <title>Connected 110: Swimsuits and Sunglasses For Dogs</title>
+            <description>This week Federico struggles to use the new W1-enabled Beats with his new iPhone 7, Myke shares some thoughts on Snapchat Spectacles, and Stephen is away so the Europeans join Snapchat on-air.</description>
+            <pubDate>Tue, 27 Sep 2016 23:45:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/connected/Connected_110.mp3" length="64180564" type="audio/mp3"/>
+            <link>http://relay.fm/connected/110</link>
+            <guid>http://relay.fm/connected/110</guid>
+            <itunes:author>Federico Viticci, Stephen Hackett and Myke Hurley</itunes:author>
+            <itunes:subtitle>This week Federico struggles to use the new W1-enabled Beats with his new iPhone 7, Myke shares some thoughts on Snapchat Spectacles, and Stephen is away so the Europeans join Snapchat on-air.</itunes:subtitle>
+            <itunes:summary>This week Federico struggles to use the new W1-enabled Beats with his new iPhone 7, Myke shares some thoughts on Snapchat Spectacles, and Stephen is away so the Europeans join Snapchat on-air.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>5336</itunes:duration>
+            <content:encoded>&lt;p&gt;This week Federico struggles to use the new W1-enabled Beats with his new iPhone 7, Myke shares some thoughts on Snapchat Spectacles, and Stephen is away so the Europeans join Snapchat on-air.&lt;/p&gt; &lt;h4&gt;This
+                episode of Connected is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="http://smilesoftware.com/connected?crcat=connected&amp;amp;crsource=textexpander&amp;amp;crcampaign=sep16"&gt;TextExpander, from Smile&lt;/a&gt;: Communicate smarter
+                with TextExpander.&lt;/li&gt; &lt;li&gt;&lt;a href="http://freshbooks.com/connected"&gt;Freshbooks&lt;/a&gt;: Online invoicing made easy.&lt;/li&gt; &lt;li&gt;&lt;a href="http://pingdom.com/connected"&gt;Pingdom&lt;/a&gt;: Start monitoring your
+                websites and servers today. Use offer CONNECTED for 20% off.&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a href="http://www.theverge.com/2016/9/23/13036012/a-note-from-the-editor-in-chief-about-chris-ziegler"
+                target="_blank"&gt;A note from the editor-in-chief about Chris Ziegler | The Verge&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://releasenotes.tv/conference/" target="_blank"&gt;A Conference About Building Businesses | Release
+                Notes&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.cultofmac.com/446897/galaxy-note-7-replacement-batteries-catch-fire/" target="_blank"&gt;Galaxy Note 7 replacement batteries catch fire, too - Cult of Mac&lt;/a&gt;&lt;/h5&gt;
+                &lt;h5&gt;&lt;a href="https://geo.itunes.apple.com/gb/app/carrot-weather-talking-forecast/id961390574?mt=8&amp;at=1l3vre2" target="_blank"&gt;CARROT Weather - Talking Forecast Robot on the App Store&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/Gabrulfo/status/778959963930529792" target="_blank"&gt;Gabriel's Amazing Artwork&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=cZn1Vzkd7LE" target="_blank"&gt;Something wounderfull and terrible
+                has happened - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://uk.businessinsider.com/snapchat-glasses-2016-9" target="_blank"&gt;Snapchat glasses - Business Insider&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.recode.net/2016/9/23/13039400/snapchat-spectacles-glasses-snap--130" target="_blank"&gt;Snapchat changed its name to Snap, and is going to sell $130 video-sharing sunglasses this fall - Recode&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://spectacles.com/" target="_blank"&gt;Spectacles by Snap Inc.&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://www.theverge.com/2016/9/24/13042640/snapchat-spectacles-how-to-use" target="_blank"&gt;Here's how Snapchat's new Spectacles
+                will work - The Verge&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://mobile.twitter.com/namzo/status/779589506479652864" target="_blank"&gt;Snapchat Circular Video Gif&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://www.snapchat.com/add/federicoviticci" target="_blank"&gt;Add Federico on Snapchat!&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.snapchat.com/add/imyke" target="_blank"&gt;Add Myke on Snapchat!&lt;/a&gt;&lt;/h5&gt;
+                &lt;h5&gt;&lt;a href="https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E" target="_blank"&gt;Amazon Echo - Amazon Official Site - Alexa-Enabled&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://ifttt.com/amazon_alexa"
+                target="_blank"&gt;Connect Amazon Alexa to hundreds of apps - IFTTT&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://us.mytaxi.com/index.html" target="_blank"&gt;mytaxi - The Taxi App&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/5/connected_artwork.png"/>
+        </item>
+        <item>
+            <title>Remaster 19: A New Reality</title>
+            <description>Shahid is going all-in on VR development.</description>
+            <pubDate>Tue, 27 Sep 2016 13:15:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/remasterrelay/Remaster_019.mp3" length="26174579" type="audio/mp3"/>
+            <link>http://relay.fm/remaster/19</link>
+            <guid>http://relay.fm/remaster/19</guid>
+            <itunes:author>Federico Viticci, Shahid Kamal Ahmad and Myke Hurley</itunes:author>
+            <itunes:subtitle>Shahid is going all-in on VR development.</itunes:subtitle>
+            <itunes:summary>Shahid is going all-in on VR development.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>2142</itunes:duration>
+            <content:encoded>&lt;p&gt;Shahid is going all-in on VR development.&lt;/p&gt;
+            </content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/26/remaster_artwork.png"/>
+        </item>
+        <item>
+            <title>Upgrade 108: It's a Great Feature When It Works</title>
+            <description>The beta version of the iPhone 7 Plus’s Portrait mode is here, and Jason and Myke both took it for a spin. Then Jason recounts his favorite and least favorite features of macOS Sierra, and Myke explains why—despite the name of this
+                show—he’s not going to upgrade.</description>
+            <pubDate>Mon, 26 Sep 2016 18:30:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/upgrade/Upgrade_108.mp3" length="73051647" type="audio/mp3"/>
+            <link>http://relay.fm/upgrade/108</link>
+            <guid>http://relay.fm/upgrade/108</guid>
+            <itunes:author>Jason Snell and Myke Hurley</itunes:author>
+            <itunes:subtitle>The beta version of the iPhone 7 Plus’s Portrait mode is here, and Jason and Myke both took it for a spin. Then Jason recounts his favorite and least favorite features of macOS Sierra.</itunes:subtitle>
+            <itunes:summary>The beta version of the iPhone 7 Plus’s Portrait mode is here, and Jason and Myke both took it for a spin. Then Jason recounts his favorite and least favorite features of macOS Sierra.</itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>6057</itunes:duration>
+            <content:encoded>&lt;p&gt;The beta version of the iPhone 7 Plus’s Portrait mode is here, and Jason and Myke both took it for a spin. Then Jason recounts his favorite and least favorite features of macOS Sierra, and Myke explains why—despite the name
+                of this show—he’s not going to upgrade.&lt;/p&gt; &lt;h4&gt;This episode of Upgrade is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="https://www.helpspot.com/upgrade"&gt;HelpSpot&lt;/a&gt;: The most comprehensive and flexible help desk
+                software around. Get 10% off with the code UPGRADE.&lt;/li&gt; &lt;li&gt;&lt;a href="http://criquetshirts.com/upgrade"&gt;Criquet&lt;/a&gt;: Get 20% off with the code UPGRADE&lt;/li&gt; &lt;li&gt;&lt;a
+                href="https://512pixels.net/september/"&gt;Childhood Cancer Awareness Month&lt;/a&gt;: Please donate to &lt;a href="http://fundraising.stjude.org/site/TR/Heroes/Heroes?px=2803749&amp;amp;pg=personal&amp;amp;fr_id=59186"&gt;St.
+                Jude&lt;/a&gt;.&lt;/li&gt; &lt;/ul&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a href="http://www.recode.net/2016/6/30/12067578/spotify-apple-app-store-rejection" target="_blank"&gt;Spotify says Apple won’t approve a new version of
+                its app because it doesn’t want competition for Apple Music - Recode&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://techcrunch.com/2016/09/23/salesforce-google-twitter/" target="_blank"&gt;Salesforce, Google, Microsoft, Verizon are all eyeing up
+                a Twitter bid | TechCrunch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://techcrunch.com/2016/09/21/hands-on-with-the-iphone-7-plus-crazy-new-portrait-mode/" target="_blank"&gt;Hands on with the iPhone 7 Plus’ crazy new Portrait mode |
+                TechCrunch&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://sixcolors.com/post/2016/09/first-impressions-of-portrait-mode-on-the-iphone-7-plus/" target="_blank"&gt;First impressions of Portrait Mode on the iPhone 7 Plus - Six
+                Colors&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/imyke/status/778657147055906816" target="_blank"&gt;Myke's BB8 Photo&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/jsnell/status/778689189130801152"
+                target="_blank"&gt;Jason's Cat Photo&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://twitter.com/imyke/status/779484838910910464" target="_blank"&gt;Myke's Portrait&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://sixcolors.com/post/2016/09/sierra-review/" target="_blank"&gt;macOS Sierra Review: Hey Siri, where did my files go? - Six Colors&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://www.takecontrolbooks.com/photos-crash-course?pt=SIXCOLORS&amp;aff=AFL5802530905" target="_blank"&gt;Photos: A Take Control Crash Course | Take Control Books&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/11/upgrade_artwork.png"/>
+        </item>
+        <item>
+            <title>Liftoff 30: Talking Kepler with Natalie Batalha</title>
+            <description>This week, Jason interviews Natalie Batalha, NASA's Kepler mission project scientist, about the spacecraft, the K2 mission and some exoplanets found by the mission.
+            </description>
+            <pubDate>Mon, 26 Sep 2016 08:00:00 GMT</pubDate>
+            <enclosure url="http://www.podtrac.com/pts/redirect.mp3/traffic.libsyn.com/liftoffrelay/Liftoff_30.mp3" length="39299846" type="audio/mp3"/>
+            <link>http://relay.fm/liftoff/30</link>
+            <guid>http://relay.fm/liftoff/30</guid>
+            <itunes:author>Stephen Hackett and Jason Snell</itunes:author>
+            <itunes:subtitle>This week, Jason interviews Natalie Batalha, NASA's Kepler mission project scientist, about the spacecraft, the K2 mission and some exoplanets found by the mission.
+            </itunes:subtitle>
+            <itunes:summary>This week, Jason interviews Natalie Batalha, NASA's Kepler mission project scientist, about the spacecraft, the K2 mission and some exoplanets found by the mission.
+            </itunes:summary>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:duration>3236</itunes:duration>
+            <content:encoded>&lt;p&gt;This week, Jason interviews Natalie Batalha, NASA&amp;#39;s Kepler mission&lt;br&gt; project scientist, about the spacecraft, the K2 mission and some exoplanets found by the mission. &lt;/p&gt; &lt;h4&gt;This episode of
+                Liftoff is sponsored by:&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href="https://www.helpspot.com/liftoff"&gt;HelpSpot&lt;/a&gt;: The most comprehensive and flexible help desk software around. Get 10% off with the code LIFTOFF.&lt;/li&gt; &lt;/ul&gt;
+                &lt;h4 style='display: inline;'&gt;Guest Starring:&lt;/h4&gt; &lt;p style='display: inline;'&gt;&lt;a href='http://www.relay.fm/people/nataliebatalha'&gt;Natalie Batalha&lt;/a&gt;&lt;/p&gt; &lt;h4&gt;Links and Show Notes&lt;/h4&gt; &lt;h5&gt;&lt;a
+                href="http://spaceflightnow.com/2016/09/21/officials-target-mid-october-for-first-launch-of-upgraded-antares-cargo-rocket/" target="_blank"&gt;Officials target mid-October for first launch of upgraded Antares cargo rocket – Spaceflight
+                Now&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.youtube.com/watch?v=BSr4hUcROwo" target="_blank"&gt;NASA Antares Rocket Explosion - YouTube&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="http://www.theverge.com/2016/9/21/12891322/elon-musk-spacex-mars-colonization-mission-rocket" target="_blank"&gt;Elon Musk's Mars colonization plans: what we know so far - The Verge&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a
+                href="https://twitter.com/nbatalha" target="_blank"&gt;Natalie Batalha (@nbatalha) | Twitter&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://spacescience.arc.nasa.gov/staff/natalie-batalha" target="_blank"&gt;Natalie Batalha | Space Science and
+                Astrobiology at Ames&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="http://kepler.nasa.gov/" target="_blank"&gt;Kepler: Home Page&lt;/a&gt;&lt;/h5&gt; &lt;h5&gt;&lt;a href="https://www.relay.fm/liftoff/28" target="_blank"&gt;Liftoff #28: Exoplanets -
+                Relay FM&lt;/a&gt;&lt;/h5&gt;</content:encoded>
+            <itunes:image href="http://relayfm.s3.amazonaws.com/uploads/broadcast/image/20/liftoff_artwork.png"/>
+        </item>
+    </channel>
+</rss>
